@@ -1,6 +1,5 @@
-venv/ 
-__pycache__/ 
-*.db 
-*.pyc 
-node_modules/ 
-onionscope-ui/build/ 
+"venv/" 
+"__pycache__/" 
+"*.db" 
+"node_modules/" 
+"onionscope-ui/build/" 
